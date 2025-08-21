@@ -1,2 +1,2 @@
-# name_drop_app
-This app is guessing game to make joke on people of drop their names and give an honest but approximate information about their nationality, gender and age.
+# name drop guessing app
+This app is a guessing game to make jokes about people by dropping their names and giving honest but approximate information about their nationality, gender and age.
