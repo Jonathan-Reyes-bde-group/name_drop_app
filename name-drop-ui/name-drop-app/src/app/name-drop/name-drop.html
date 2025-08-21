@@ -1,0 +1,32 @@
+<div class="container">
+  <div class="card">
+    <h4 class="card-title">
+      Let me guess... I am thinking of you.
+    </h4>
+
+    <label for="firstName" class="card-header">
+      Drop your First Name in the Box, and you will be surprised ✨
+    </label>
+
+    <input
+      id="firstName"
+      type="text"
+      [(ngModel)]="firstName"
+      placeholder="Enter your first name"
+      class="input"
+    />
+
+    <button
+      (click)="showSurprise()"
+      class="button"
+    >
+      Surprise Me 🎁
+    </button>
+
+    @if(message) {
+      <div class="message">
+        {{ message }}
+      </div>
+    }
+  </div>
+</div>
