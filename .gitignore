@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/name-drop/ProjectNameDrop/.vs
+/name-drop/ProjectNameDrop/ProjectNameDrop.csproj.user
+/name-drop/ProjectNameDrop/obj/ProjectNameDrop.csproj.nuget.dgspec.json
+/name-drop/ProjectNameDrop/obj/Debug/net8.0/ProjectNameDrop.AssemblyInfo.cs
+/name-drop/ProjectNameDrop/obj/Debug/net8.0/ProjectNameDrop.AssemblyInfoInputs.cache
+/name-drop/ProjectNameDrop/obj/Debug/net8.0/ProjectNameDrop.assets.cache
+/name-drop/ProjectNameDrop/obj/Debug/net8.0/ProjectNameDrop.GeneratedMSBuildEditorConfig.editorconfig
+/name-drop/ProjectNameDrop/obj/Debug/net8.0/rpswa.dswa.cache.json
+/name-drop/ProjectNameDrop/obj/project.assets.json
+/name-drop/ProjectNameDrop/obj/project.nuget.cache
